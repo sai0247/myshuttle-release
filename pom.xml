@@ -125,4 +125,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+    
+<distributionManagement>
+    
+    <repository>
+    <id>myshuttle</id>
+    <name>myshuttle</name>    
+    <url>http://ossnexus.southindia.cloudapp.azure.com:8081/nexus/content/repositories/myshuttle</url>
+  </repository>
+</distributionManagement>
+    
 </project>
