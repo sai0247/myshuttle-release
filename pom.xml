@@ -129,9 +129,9 @@
 <distributionManagement>
     
   <repository>
-    <id>myshuttle</id>
-    <name>myshuttle</name>    
-    <url>http://ossnexus.southindia.cloudapp.azure.com:8081/nexus/content/repositories/myshuttle</url>
+    <id>myshuttlesnapshot</id>
+    <name>myshuttlesnapshot</name>    
+    <url>http://localhost:8081/repository/myshuttlesnapshot/</url>
   </repository>
 </distributionManagement>
     
