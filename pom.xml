@@ -130,7 +130,7 @@
     
   <repository>
     <id>maven-release</id>
-    <name>maven-release</name>    
+    <name>maven-releases</name>    
     <url>http://localhost:8081/#browse/browse:maven-releases/</url>
   </repository>
 </distributionManagement>
