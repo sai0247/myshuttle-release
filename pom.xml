@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.microsoft.example</groupId>
   <artifactId>myshuttle</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <packaging>war</packaging>
   <build>
   	<finalName>myshuttledev</finalName>
@@ -128,11 +128,7 @@
     
 <distributionManagement>
     
-  <repository>
-    <id>maven-release</id>
-    <name>maven-releases</name>    
-    <url>http://localhost:8081/#browse/browse:maven-releases/</url>
-  </repository>
+  
   <repository>
     <id>myshuttle-release</id>
     <name>myshuttle-release</name>    
