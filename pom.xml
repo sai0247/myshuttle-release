@@ -130,9 +130,9 @@
     
   
   <repository>
-    <id>myshuttle-release</id>
-    <name>myshuttle-release</name>    
-    <url>http://localhost:8081/#browse/browse:myshuttle-release/</url>
+    <id>maven-release</id>
+    <name>maven-release</name>    
+    <url>http://localhost:8081/#browse/browse:maven-release/</url>
   </repository> 
     
 </distributionManagement>
